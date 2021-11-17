@@ -8,7 +8,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Ho Chi Minh University of Technology.
-- 📚 &nbsp; Currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 &nbsp; Currently learning backend web development using NodeJS, ExpressJS, MongoDB.
 - 👯 &nbsp; Looking for a Software Development Internship.
 
 ### 🛠 &nbsp;Tech Stack
@@ -39,8 +39,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=toanvo4121&theme=buefy&show_icons=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanvo4121&theme=buefy&layout=compact" />
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=toanvo4121&theme=buefy&show_icons=true" />
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanvo4121&theme=buefy&layout=compact" />
 </a>
 
 <br/>
