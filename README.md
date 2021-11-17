@@ -49,8 +49,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <p align="center">
 <a href="https://www.facebook.com/toanvo4121/"><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-To%C3%A0n%20V%C3%B5-blue?style=plastic&logo=facebook"></a>
-<a href="https://www.instagram.com/toanvo4121/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-toanvo4121-blue?style=plastic&logo=instagram"></a>
-<a href="mailto:toan.vo4121@hcmut.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-toan.vo4121@hcmut.edu.vn-blue?style=plastic&logo=gmail"></a>
+<a href="https://www.instagram.com/toanvo4121/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-toanvo4121-red?style=plastic&logo=instagram"></a>
+<a href="mailto:toan.vo4121@hcmut.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-toan.vo4121@hcmut.edu.vn-success?style=plastic&logo=gmail"></a>
 </p>
 
 ⭐️ From [toanvo4121](https://github.com/toanvo4121)
