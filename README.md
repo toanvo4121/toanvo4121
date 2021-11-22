@@ -11,6 +11,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 &nbsp; Currently learning backend web development using NodeJS, ExpressJS, MongoDB.
 - 👯 &nbsp; Looking for a Software Development Internship.
 
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
