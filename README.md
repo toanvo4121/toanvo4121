@@ -38,8 +38,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
 
-<br/>
-
 ### 🔎 &nbsp;Stats
 
 <p align="center" >
@@ -50,15 +48,12 @@ I'm a computer science student who is passionate about writing code, solving pro
 </a>
 </p>
 
-<br/>
-
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=CSE-ComputerNetwork-VideoStreamingApplication&show_icons=true&theme=radical" />
+  <img width="375em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=CSE-ComputerNetwork-VideoStreamingApplication&show_icons=true&theme=radical" />
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=cse-do_an_cnpm-vitamim&show_icons=true&theme=radical" />
+  <img width="375em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=cse-do_an_cnpm-vitamim&show_icons=true&theme=radical" />
 </p>
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
