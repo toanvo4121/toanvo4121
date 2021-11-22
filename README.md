@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Toàn.
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="30%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
@@ -11,9 +11,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 &nbsp; Currently learning backend web development using NodeJS, ExpressJS, MongoDB.
 - 👯 &nbsp; Looking for a Software Development Internship.
 
-### 🛠 &nbsp;Tech Stack
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
@@ -50,7 +50,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
-  <a href="https://github.com/toanvo4121">
+  <a href="https://github.com/toanvo4121/CSE-VideoStreamingApplication">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=CSE-VideoStreamingApplication&show_icons=true&theme=radical" />
   </a>
   &nbsp;
