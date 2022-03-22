@@ -49,7 +49,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
-  <a href="https://github.com/toanvo4121/CSE-VideoStreamingApplication">
+  <a href="https://github.com/toanvo4121/CSE-Software_Engineering-Ben_Queens">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=CSE-VideoStreamingApplication&show_icons=true&theme=radical" />
   </a>
   &nbsp;
