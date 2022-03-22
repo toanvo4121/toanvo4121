@@ -50,11 +50,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
   <a href="https://github.com/toanvo4121/CSE-Software_Engineering-Ben_Queens">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=CSE-VideoStreamingApplication&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=CSE-Software_Engineering-Ben_Queens&show_icons=true&theme=radical" />
   </a>
   &nbsp;
-  <a href="https://github.com/toanvo4121/cse-do_an_cnpm-vitamim">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=cse-do_an_cnpm-vitamim&show_icons=true&theme=radical" />
+  <a href="https://github.com/toanvo4121/GPT3_UI-UX_design">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=toanvo4121&repo=GPT3_UI-UX_design&show_icons=true&theme=radical" />
   </a>
 </p>
 
