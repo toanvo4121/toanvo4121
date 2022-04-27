@@ -8,7 +8,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Ho Chi Minh University of Technology.
-- 📚 &nbsp; Currently learning backend web development using NodeJS, ExpressJS, MongoDB.
+- 📚 &nbsp; Currently learning frontend web development using ReactJS, Redux, CSS frameworks.
 - 👯 &nbsp; Looking for a Software Development Internship.
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
